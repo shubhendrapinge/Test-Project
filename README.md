@@ -1,4 +1,4 @@
-# Test
+# Test Project
 To find the word count for top 10 words in a file and display in a JSON format.
 The following npm packages are required for the code to run:
 1. https://www.npmjs.com/package/request
